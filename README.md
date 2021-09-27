@@ -20,9 +20,9 @@
 
 ## 💻 GitHub Profile Stats 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haicao2805&theme=algolia" alt="haicao2805" />
-  <img src="https://github-readme-stats.vercel.app/api?username=haicao2805&show_icons=true&locale=en&theme=algolia" alt="candida18" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haicao2805&show_icons=true&locale=en&layout=compact&theme=algolia&langs_count=6&hide=javascript" alt="candida18" height="192px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haicao2805&theme=algolia" alt="haicao2805" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=haicao2805&show_icons=true&locale=en&theme=algolia" alt="haicao2805" height="180em"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haicao2805&show_icons=true&locale=en&layout=compact&theme=algolia&langs_count=6&hide=javascript" alt="haicao2805" height="180em"/>
 </p>
   
 <p align="center">
