@@ -8,15 +8,25 @@
 
 ## ⚡ Technologies
 ### Language :
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/typescript.png" title = "Typescript" /></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" title = "C#"  /></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/java.png" title="Java"/></code>
-### Backend Framework:
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/typescript.png" title = "Typescript" /></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" title = "C#"  /></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/java.png" title="Java"/></code>
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+### Database
+![My SQL](https://img.shields.io/badge/-My%20SQL-05122A?style=flat&logo=mysql)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=green)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis&logoColor=red)&nbsp;
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=red)&nbsp;
+### Backend Framework
+![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs&logoColor=red)&nbsp;
+![NodeJs](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)&nbsp;
+![.NET 5.0](https://img.shields.io/badge/.NET-05122A?style=flat&logo=.net)&nbsp;
+### Others
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx&logoColor=green)&nbsp;
+
 
 ## 💻 GitHub Profile Stats 
 <p align="center">
