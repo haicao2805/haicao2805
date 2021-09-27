@@ -7,35 +7,22 @@
 <br>
 
 ## ⚡ Technologies
-### Languages :
-
+### Language :
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/typescript.png" title = "Typescript" /></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" title = "C#"  /></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/java.png" title="Java"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/bootstrap.png" title = "Bootstrap"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/dart.png" title = "Dart"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/kotlin.png" title="Kotlin"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title = "VSCode"/></code>
-<code><img width="40px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt ="Android-Studio"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" title = "Photoshop"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" title = "After Effects"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" title = "PREMIERE PRO"/></code>
+### Backend Framework:
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/typescript.png" title = "Typescript" /></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" title = "C#"  /></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/java.png" title="Java"/></code>
 
 ## 💻 GitHub Profile Stats 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=haicao2805&theme=algolia" alt="haicao2805" />
-</p>
-
-<p align="center">
-    <a href="https://github.com/haicao2805"><img src="https://github-readme-stats.vercel.app/api?username=haicao2805&show_icons=true&locale=en&theme=algolia" alt="candida18" height="192px"/></a>
-</p>
-
-<p align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haicao2805&show_icons=true&locale=en&layout=compact&theme=algolia&langs_count=6&hide=javascript" alt="candida18" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=haicao2805&show_icons=true&locale=en&theme=algolia" alt="candida18" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haicao2805&show_icons=true&locale=en&layout=compact&theme=algolia&langs_count=6&hide=javascript" alt="candida18" height="192px"/>
 </p>
   
 <p align="center">
