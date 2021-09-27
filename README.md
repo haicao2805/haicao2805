@@ -10,7 +10,7 @@
 ### Languages :
 
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/typescript.png" title = "Typescript" /></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/sass.png" title = " Sass"  /></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/csharp.png" title = "C#"  /></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/react-native.png" title="React"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/bootstrap.png" title = "Bootstrap"/></code>
