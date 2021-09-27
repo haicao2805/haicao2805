@@ -6,9 +6,10 @@
   <h4 align="center">I am a backend developer with 2 years of learning NodeJS, which includes 1-year using NestJS. Passionate about learning new knowlegde, solving problem and finding ways to work more effectively.</h4>
 <br>
 
-### Languages and Softwares:
+## ⚡ Technologies
+### Languages :
 
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" title = " HTML5"  /></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/typescript.png" title = "Typescript" /></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/sass.png" title = " Sass"  /></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/react-native.png" title="React"/></code>
