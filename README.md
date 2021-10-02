@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Development&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-  <h4 align="center">I am a backend developer with 2 years of learning NodeJS, which includes 1-year using NestJS. Passionate about learning new knowlegde, solving problem and finding ways to work more effectively.</h4>
+  <h4 align="center">I am a junior backend developer with 2-years of learning and practicing ExpressJS and NestJS to build servers. Passionate about learning new knowledge, loving to solve the problem, and finding ways to work more effectively.</h4>
 <br>
 
 ## ⚡ Technologies
