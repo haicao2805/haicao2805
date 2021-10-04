@@ -9,7 +9,7 @@
 ## 🙋‍♀️ Let's Connect
 <p align="center">
   <a href="https://haicao.website/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-  <a href="https://haicao.website/"><img src="https://img.icons8.com/bubbles/50/000000/resume.png" alt="Website"/></a>
+  <a href="https://haicao2805.github.io/cv/CV.pdf"><img src="https://img.icons8.com/bubbles/50/000000/resume.png" alt="Resume"/></a>
   <a href="mailto:haicao2805@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
   <a href="https://github.com/haicao2805"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/cao-chi-hai"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
