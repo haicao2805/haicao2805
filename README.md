@@ -8,12 +8,12 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  <a href="https://haicao.website/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-  <a href="https://haicao2805.github.io/cv/CV.pdf"><img src="https://img.icons8.com/bubbles/50/000000/resume.png" alt="Resume"/></a>
-  <a href="mailto:haicao2805@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-  <a href="https://github.com/haicao2805"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/cao-chi-hai"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100009261397293"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+  <a href="https://haicao.website/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+  <a href="https://haicao2805.github.io/cv/CV.pdf" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/resume.png" alt="Resume"/></a>
+  <a href="mailto:haicao2805@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="https://github.com/haicao2805" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/cao-chi-hai" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100009261397293" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 </p>
 
 
