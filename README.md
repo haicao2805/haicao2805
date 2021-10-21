@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Development&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-  <h4 align="center">I am a junior backend developer with 2-years of learning and practicing ExpressJS and NestJS to build servers. Passionate about learning new knowledge, loving to solve the problem, and finding ways to work more effectively.</h4>
+  <h4 align="center">Self-educated, enthusiastic, and driven student of Software Engineering seeking an internship in Backend Developer. Built products using NodeJs, .NET with fundamentals of OOP, SOLID, Database Design, Restful API. Passionate about learning new knowledge, solving problems, and finding ways to work more effectively. </h4>
 <br>
 
 ## 🙋‍♀️ Let's Connect
