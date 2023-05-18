@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Cao Chi Hai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Web2&Web3+Development&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Web2+and+Web3+Development&center=true&width=500&height=50"></a>
 </p>
 <hr/>
   <h4 align="center">Self-educated, enthusiastic, and driven student of Software Engineering seeking an internship in Backend Developer. Built products using NodeJs, .NET with fundamentals of OOP, SOLID, Database Design, Restful API. Passionate about learning new knowledge, solving problems, and finding ways to work more effectively. </h4>
