@@ -23,7 +23,6 @@ Having worked for both a startup and a small outsourcing company for more than a
 ### Language :
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ### Database
 ![My SQL](https://img.shields.io/badge/-My%20SQL-05122A?style=flat&logo=mysql)&nbsp;
@@ -48,8 +47,4 @@ Having worked for both a startup and a small outsourcing company for more than a
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haicao2805&show_icons=true&locale=en&layout=compact&theme=algolia&langs_count=6&hide=javascript" alt="haicao2805" height="180em"/>
     <img src="https://github-readme-stats.vercel.app/api?username=haicao2805&show_icons=true&locale=en&theme=algolia" alt="haicao2805" height="180em"/>
   </a>
-</p>
-  
-<p align="center">
-   <a href="https://github.com/haicao2805"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=haicao2805&custom_title=Cao%20Chi%20Hai's%20Contribution%20Graph&theme=react-dark" /></a>
 </p>
