@@ -3,15 +3,14 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Web2+and+Web3+Developer&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-  <h4 align="center">Greetings! My name is Cao Chi Hai and I have a strong passion for creating valuable websites and mobile apps. I graduated from FPT University with a Bachelor&apos;s degree in Information Technology, majoring in Software Engineering. I really enjoy my journey in this field.
 
-Having worked for both a startup and a small outsourcing company for more than a year, I work as a full-stack developer. My core goal is to develop products that meet user requirements. I emphasize focus and adaptability in the process of working.</h4>
+<h4 align="center">Hi! My name is Cao Chi Hai.</h4>
+
 <br>
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  <a href="https://caochihai.com/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-<!--   <a href="" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/resume.png" alt="Resume"/></a> -->
+  <a href="https://dev.caochihai.id.vn" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
   <a href="mailto:haicao2805@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
   <a href="https://github.com/haicao2805" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/cao-chi-hai" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
