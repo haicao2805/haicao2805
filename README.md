@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Cao Chi Hai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Web2+and+Web3+Developer&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 
@@ -21,20 +21,14 @@
 ## ⚡ Technologies
 ### Language :
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
-![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ### Database
-![My SQL](https://img.shields.io/badge/-My%20SQL-05122A?style=flat&logo=mysql)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=green)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis&logoColor=red)&nbsp;
-![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=red)&nbsp;
+![Postgresql](https://img.shields.io/badge/-postgres-05122A?style=flat&logo=postgresql)&nbsp;
+![Redis](https://img.shields.io/badge/-redis-05122A?style=flat&logo=Redis&logoColor=red)&nbsp;
 ### Backend Framework
-![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs&logoColor=red)&nbsp;
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-05122A?style=flat&logo=express)&nbsp;
-![.NET 5.0](https://img.shields.io/badge/.NET-05122A?style=flat&logo=.net)&nbsp;
+![Loopback](https://img.shields.io/badge/-loopback-05122A?style=flat&logo=loopback&logoColor=red)&nbsp;
 ### Others
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx&logoColor=green)&nbsp;
 
