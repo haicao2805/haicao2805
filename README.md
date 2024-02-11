@@ -23,21 +23,21 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ### Database
-![Postgresql](https://img.shields.io/badge/-postgres-05122A?style=flat&logo=postgresql)&nbsp;
-![Redis](https://img.shields.io/badge/-redis-05122A?style=flat&logo=Redis&logoColor=red)&nbsp;
+![Postgresql](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
 ### Backend Framework
-![Loopback](https://img.shields.io/badge/-loopback-05122A?style=flat&logo=loopback&logoColor=red)&nbsp;
+![Loopback](https://img.shields.io/badge/-Loopback-05122A?style=flat&logo=loopback)&nbsp;
 ### Others
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx&logoColor=green)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
 
 
 ## 💻 GitHub Profile Stats 
 <p align="center">
   <a href="https://github.com/haicao2805">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=haicao2805&theme=algolia" alt="haicao2805" height="180em"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haicao2805&show_icons=true&locale=en&layout=compact&theme=algolia&langs_count=6&hide=javascript" alt="haicao2805" height="180em"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haicao2805&show_icons=true&locale=en&layout=compact&theme=algolia&langs_count=6" alt="haicao2805" height="180em"/>
     <img src="https://github-readme-stats.vercel.app/api?username=haicao2805&show_icons=true&locale=en&theme=algolia" alt="haicao2805" height="180em"/>
   </a>
 </p>
